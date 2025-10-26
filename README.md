@@ -44,17 +44,19 @@ python app.py
 # 6. Open in your browser
 # Navigate to http://127.0.0.1:5000
 
-```
-## Project Structure
+```markdown
+
+Project Structure
+
 it-helpdesk-tracker/
 │
-├── app.py                 # Main Flask application
-├── requirements.txt       # Python dependencies
-├── templates/             # HTML templates
-│   ├── index.html
-│   ├── add_ticket.html
-│   └── update_ticket.html
-├── static/                # CSS and static files
-│   └── style.css
-└── .gitignore            
+├── app.py # Main Flask application
+├── requirements.txt # Python dependencies
+├── templates/ # HTML templates
+│ ├── index.html
+│ ├── add_ticket.html
+│ └── update_ticket.html
+├── static/ # CSS and static files
+│ └── style.css
+└── .gitignore # Git ignore rules
 
