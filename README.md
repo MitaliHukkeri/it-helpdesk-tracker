@@ -1,7 +1,13 @@
 # IT Helpdesk Tracker
 
-A simple web application to track IT support tickets, built with **Python** and **Flask**. Tickets are color-coded by priority (High, Medium, Low) and can be updated with status changes. This app is designed for local use and learning purposes.
+## Project Description
+The **IT Helpdesk Tracker** is a simple web application built using **Python and Flask** for managing IT support tickets. It allows users to:
 
+- Add new support tickets with a title and description.  
+- Automatically assign ticket priority based on the description.  
+- Update ticket status and priority.  
+- View all tickets in a clean, color-coded table for easy tracking.  
+- Export tickets to CSV for reporting purposes. 
 ---
 
 ## Features
