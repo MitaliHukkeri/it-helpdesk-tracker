@@ -44,8 +44,6 @@ python app.py
 # 6. Open in your browser
 # Navigate to http://127.0.0.1:5000
 
-```markdown
-
 Project Structure
 
 it-helpdesk-tracker/
@@ -59,4 +57,16 @@ it-helpdesk-tracker/
 ├── static/ # CSS and static files
 │ └── style.css
 └── .gitignore # Git ignore rules
+```
+
+## Notes
+
+- Tickets are color-coded by priority: High – red, Medium – yellow, Low – green.
+- Closed tickets are kept for records and are not deleted.
+- Intended for local use and learning purposes. For production deployment, use a proper web server and database.
+
+## Author
+
+Mitali Hukkeri  
+GitHub: [https://github.com/MitaliHukkeri](https://github.com/MitaliHukkeri)
 
